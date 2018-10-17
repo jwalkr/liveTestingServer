@@ -2,8 +2,8 @@ let request = require('request')
 //client request to TCp
 
 var net = require('net');
-var HOST = '127.0.0.1';
-var PORT = 6969;
+var HOST =  process.env.HOST||'127.0.0.1';
+var PORT = process.env.PORT || 6969;
 
 let obj = {
 

@@ -1,0 +1,22 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvtusse/xml-over-tcp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rvtusse/xml-over-tcp/issues"
+  },
+  "homepage": "https://github.com/rvtusse/xml-over-tcp#readme",
+  "dependencies": {
+    "@types/memory-cache": "^0.2.0"
+  }
+}
