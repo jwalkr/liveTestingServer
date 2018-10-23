@@ -18,5 +18,10 @@
   "homepage": "https://github.com/rvtusse/xml-over-tcp#readme",
   "dependencies": {
     "@types/memory-cache": "^0.2.0"
+  },
+  "devDependencies": {
+    "axon": "^2.0.3",
+    "express": "^4.16.4",
+    "memory-cache": "^0.2.0"
   }
 }
